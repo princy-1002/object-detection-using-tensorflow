@@ -1,0 +1,5 @@
+tensorflow>=2.19,<2.22
+numpy>=2.0
+matplotlib>=3.9
+pillow>=11.0
+scikit-learn>=1.6
